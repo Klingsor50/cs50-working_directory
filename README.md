@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Klingsor50
-- 👀 I’m interested in everything mobile and shiny, like a racoon
-- 🌱 I’m currently learning Ada
-- 💞️ I’m looking to collaborate on CAN J1939
+- 👀 I transform coffee into code
+- 🌱 I’m currently learning Ada for embedded applications
+- 💞️ I’m looking to collaborate on CAN, MODBUS, 
 - 📫 How to reach me ...
 
 <!---
