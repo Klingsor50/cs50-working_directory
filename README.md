@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Klingsor50
 - 👀 I transform coffee into code
-- 🌱 I’m currently learning Ada for embedded applications
+- 🌱 I’m currently learning Ada and Rust for embedded applications
 - 💞️ I’m looking to collaborate on CAN, MODBUS, 
 - 📫 How to reach me ...
 
